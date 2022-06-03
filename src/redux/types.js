@@ -1,0 +1,5 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const CHANGE_THEME = "CHANGE_THEME"
+export const IS_INCREMENT = "IS_INCREMENT"
+export const IS_NOT_INCREMENT = "IS_NOT_INCREMENT"
